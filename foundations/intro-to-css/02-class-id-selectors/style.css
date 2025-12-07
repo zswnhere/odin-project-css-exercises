@@ -5,7 +5,7 @@
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
-.second-element {
+#second-element {
     color: blue;
     font-size: 36px;
 }
@@ -14,7 +14,7 @@
     font-size: 24px;
 }
 
-.forth-element {
+#forth-element {
     background-color: lightgreen;
     font-weight: 700;
 }
